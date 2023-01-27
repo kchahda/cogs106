@@ -1,3 +1,9 @@
-this is a temp for the assignment
+#!/bin/bash
+
+git status 
+
+current=$(date)
+
+echo "$current"
 
 
